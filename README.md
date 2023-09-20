@@ -13,7 +13,7 @@ Let's get in touch! Connect with me on:
 ## 📕 Pinned projects 
 
 <p align="left">
-  <a href="https://github.com/y00tss/CarService"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarService&repo=vscode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode"></a>
+  <a href="https://github.com/y00tss/CarService"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=y00tss&repo=CarService&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CarService"></a>
 </p>
 
 
