@@ -6,7 +6,7 @@ Let's get in touch! Connect with me on:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mykhailoshepelenko/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://shepel.pythonanywhere.com/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/logo.svg" width="52" height="40" alt="devto logo" /></a>
+  <a href="https://shepel.pythonanywhere.com/" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="52" height="40" alt="devto logo" /></a>
 </div>
 
 
