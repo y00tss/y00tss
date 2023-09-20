@@ -1,10 +1,19 @@
-Hi, there!
-<br>
-I`m Mykhailo, a Python Developer with exiting feeling to Django / Flask 
+## Hi everyone 👋
 
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y00tss&count_private=true&show_icons=true&theme=prussian" width="400">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y00tss&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+I'm a Python Developer with exiting feeling to Django / Flask 🌟
+
+Let's get in touch! Connect with me on:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mykhailoshepelenko/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://shepel.pythonanywhere.com/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" /></a>
 </div>
+
+
+## 📕 Pinned projects 
+
+<p align="left">
+  <a href="https://github.com/y00tss/CarService"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarService&repo=vscode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode"></a>
+</p>
+
 
