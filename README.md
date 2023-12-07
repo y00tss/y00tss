@@ -35,7 +35,7 @@ I`m a passionate Python Developer with exiting feeling to Django / Flask 🌟
 
 ---
 [![](https://visitcount.itsvg.in/api?id=y00tss&icon=1&color=0)](https://visitcount.itsvg.in)
-<a href="https://github.com/serj-goa">
+<a href="https://github.com/y00tss">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/y00tss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
